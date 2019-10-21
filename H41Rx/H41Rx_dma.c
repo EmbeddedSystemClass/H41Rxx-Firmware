@@ -2,7 +2,7 @@
     BitzOS (BOS) V0.1.6 - Copyright (C) 2017-2019 Hexabitz
     All rights reserved
 		
-    File Name     : H01R0_dma.c
+    File Name     : H41Rx_dma.c
     Description   : Peripheral DMA setup source file.
 */
 
