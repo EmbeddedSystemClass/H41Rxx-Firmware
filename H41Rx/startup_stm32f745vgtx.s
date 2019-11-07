@@ -8,6 +8,11 @@
   ******************************************************************************
   */
 
+/**
+		MODIFIED by Hexabitz for BitzOS (BOS) V0.1.6 - Copyright (C) 2017-2019 Hexabitz
+    	All rights reserved		TODO must be modified for bootloader update
+  */
+
 .syntax unified
 .cpu cortex-m7
 .fpu softvfp
